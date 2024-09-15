@@ -1,2 +1,2 @@
-# NEON GYM
-This is NEON GYM web site.
+# NEOGYM
+This is NEOGYM web site.
